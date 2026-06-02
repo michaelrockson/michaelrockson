@@ -1,7 +1,7 @@
 ## About Me
 I’m Michael Rockson, a software developer with a business driven mindset. I put a higher emphasis on fixing your issue rather than making the solution technically impressive or complicated.
 
-If you translate this into actions, you'll see that I use each technical decision to help your real goal which is: a working system, the correct problem being solved from the beginning and a system your team can confidently maintain and grow to meet new demands.
+If you translate this into actions, it means every technical decision I make is guided by your original goal: a functional solution that solves the right problem from the start, with a robust system your team can confidently maintain and scale as new demands come in.
 
 ## Technical Stack
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,laravel,postgres,git,docker)
