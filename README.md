@@ -1,20 +1,14 @@
 ## About Me
-I’m Michael Rockson, a software developer with a business driven mindset. I care more about solving your problem than building something technically impressive or complex. 
+I’m Michael Rockson, a software developer with a business driven mindset. I put a higher emphasis on fixing your issue rather than making the solution technically impressive or complicated.
 
-In practice, this means every technical decision I make serves the outcome you’re actually paying for: a system that works, solves the right problem from the start and remains something your team can confidently maintain and grow to meet new demands.
+If you translate this into actions, you'll see that I use each technical decision to help your real goal which is: a working system, the correct problem being solved from the beginning and a system your team can confidently maintain and grow to meet new demands.
 
 ## Technical Stack
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,laravel,postgres,git,docker)
+
 ## How I Deliver Value
 
-**I ship what works, not what's impressive.** I'm not going to introduce a 
-framework because it's trendy. If a straightforward solution 
-gets you to your goal faster, that's the one we go with. The goal is your 
-business moving forward not my portfolio looking interesting.
-
-**I write code your team can live with.** Clean, maintainable code isn't a 
-nice-to-have it's cheaper in the long run. Less time firefighting means 
-more time building things that actually serve you.
+I lean more towards pragmatic, sustainable software that your team can comfortably work with and further develop post-delivery. It results in a solution that functions today, is flexible for the coming days and assists your business to progress without the presence of unnecessary complexities.
 
 ## How To Get In Touch
 
