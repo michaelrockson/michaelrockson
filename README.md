@@ -19,8 +19,6 @@ Hard work is important but I prefer to reserve it for the problems that truly re
 
 ## Get In Touch
 
-Open to freelance projects, full-time roles and technical partnerships. Interested collaborators can reach out via email with any problem or challenge they are working on.
-
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
 *The best engineering partnerships start with a clear problem. Bring yours.*
