@@ -4,10 +4,9 @@ I'm a software developer based in Accra, Ghana 🇬🇭 focused on building auto
 
 My goal isn't just to solve today's problem it's to build systems that solve it every day after, with little to no manual intervention.
 
-## What I'm Building
+## What You Can Expect
 
-**RedditMine** · *in development* </br>
-Automates pain-point discovery by analyzing Reddit conversations to help uncover market demand without endless scrolling.
+Projects focused on automation, real-world problem solving and building systems that reduce or eliminate manual work. Expect practical tools and scalable applications designed to run efficiently with minimal supervision.
 
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,fastapi,laravel,postgres,git,docker)
