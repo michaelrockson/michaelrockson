@@ -1,5 +1,5 @@
 ## About Me
-Software developer with a business-oriented thought process. He focuses more on fixing real user problems rather than indulging in technical complexity or building solutions that are overly engineered or unnecessarily complex.
+Software developer with a business-oriented thought process. Focused more on fixing real user problems rather than indulging in technical complexity or building solutions that are overly engineered or unnecessarily complex.
 
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,laravel,postgres,git,docker)
