@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a software developer from Accra, Ghana who is interested in creating autonomous systems, intelligent workflows and products that continue delivering value even long after they have been launched. The majority of developers write code just to complete tasks. For me, writing code is a way to do away with repetitive tasks completely.
+I'm a software developer from who is interested in creating autonomous systems, intelligent workflows and products that continue delivering value even long after they have been launched. The majority of developers write code just to complete tasks. For me, writing code is a way to do away with repetitive tasks completely.
 
 My aim is not only to address today's issue but also to develop systems that operate daily solving the issue with minimal or no human intervention.
 
