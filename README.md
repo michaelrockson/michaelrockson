@@ -6,7 +6,7 @@ My goal isn't just to solve today's problem it's to build systems that solve it 
 
 ## What I'm Building
 
-**RedditMine** · *in development*
+**RedditMine** · *in development* </br>
 Automates pain-point discovery by analyzing Reddit conversations to help uncover market demand without endless scrolling.
 
 ## Technical Skills
