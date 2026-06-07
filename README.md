@@ -1,10 +1,10 @@
-## About Him
+## About Me
 Software developer with a business-oriented thought process. He focuses more on fixing real user problems rather than indulging in technical complexity or building solutions that are overly engineered or unnecessarily complex.
 
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,laravel,postgres,git,docker)
 
-## How He Works
+## How I Work
 
 Method of working is to first recognize the true problem, then design simple, dependable and consistent solutions that integrate seamlessly into a team’s existing codebase.
 
