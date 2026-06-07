@@ -1,5 +1,5 @@
 ## About Me
-I'm a software developer based in Accra, Ghana 🇬🇭 focused on building autonomous systems, intelligent workflows and products that continue creating value long after they've been deployed.
+I'm a software developer based in Accra, Ghana 🇬🇭 focused on building autonomous systems and products that create value long after they've been deployed.
 
 While others use code to perform work, I use code to remove work.
 
