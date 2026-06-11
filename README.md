@@ -4,10 +4,6 @@ I'm a software developer who is interested in creating autonomous systems, intel
 
 My aim is not only to address today's issue but also to develop systems that operate daily solving the issue with minimal or no human intervention.
 
-## What You Can Expect
-
-I'll be publishing projects that deal with automation, solving real-world problems and creating systems that lessen or do away with manual work. You should also expect practical tools as well as scalable applications that have been developed to operate efficiently with little human involvement.
-
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,fastapi,laravel,postgres,git,docker)
 
