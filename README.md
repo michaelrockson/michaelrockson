@@ -9,7 +9,7 @@ My aim is not only to address today's issue but also to develop systems that ope
 
 ## How I Work
 
-I am a believer in the philosophy of working smart before working hard. If a problem can be solved through an automated process rather than through constant manual labor, I will always go for the process. Hard work is indeed vital but I would rather save it for those problems that really need it. The chain of working smart until working hard is the last resort for me.
+I am a believer in the philosophy of working smart before working hard. If a problem can be solved through an automated process rather than through constant manual labor, I will always go for the process. Hard work is indeed vital but I would rather save it for those problems that really need it. 
 
 ## Get In Touch
 
