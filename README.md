@@ -6,7 +6,7 @@ I am a full-stack software developer who designs scalable web applications, busi
 
 | Area | Expertise | Tech Stack |
 |------|----------|------------|
-| Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,bootstrap) |
+| Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,bootstrap) |
 | Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=python,laravel) |
 | API Integration | Design REST APIs and integrate third-party services | ![My Skills](https://skillicons.dev/icons?i=fastapi,flask,postman) |
 | Database Design | Design and optimize relational databases | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql) |
