@@ -5,12 +5,20 @@ I am a full-stack software developer who designs scalable web applications, busi
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,fastapi,laravel,postgres,git,docker)
 
-## How I Work
+## What I Do
 
-I am a believer in the philosophy of working smart before working hard. If a problem can be solved through an automated process rather than through constant manual labor, I will always go for the process. Hard work is indeed vital but I would rather save it for those problems that really need it. 
+| Area | Expertise |
+|------|-----------|
+| Full-Stack Development | Build scalable web applications from frontend to backend|
+| Backend Engineering | Develop robust APIs and backend services with Python, FastAPI & Laravel |
+| Frontend Development | Create responsive user interfaces with React, Angular & TypeScript |
+| API Integration | Design REST APIs and integrate third-party services |
+| Business Applications | Build software that streamlines business operations |
+| Cloud & DevOps | Deploy and manage applications with Docker |
+
 
 ## Get In Touch
+I'm always interested in opportunities to build scalable software and business applications that create measurable value for businesses and the people who use them. *The best engineering partnerships start with a clear problem. Bring yours.* <br>
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
 
-*The best engineering partnerships start with a clear problem. Bring yours.*
