@@ -1,8 +1,6 @@
 ## About Me
 
-I'm a software developer who is interested in creating autonomous systems, intelligent workflows and products that continue delivering value even long after they have been launched. The majority of developers write code just to complete tasks. For me, writing code is a way to do away with repetitive tasks completely.
-
-My aim is not only to address today's issue but also to develop systems that operate daily solving the issue with minimal or no human intervention.
+I am a full-stack software developer who designs scalable web applications, business systems and intelligent workflows. I have a business-first mindset that helps software development become a reliable way of solving actual problems. For now, I am targeting working on systems that automate tasks and bring continuous value.
 
 ## Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,fastapi,laravel,postgres,git,docker)
