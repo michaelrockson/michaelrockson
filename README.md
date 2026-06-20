@@ -2,19 +2,16 @@
 
 I am a full-stack software developer who designs scalable web applications, business systems and intelligent workflows. I have a business-first mindset that helps software development become a reliable way of solving actual problems. For now, I am targeting working on systems that automate tasks and bring continuous value.
 
-## Technical Skills
-![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,python,fastapi,laravel,postgres,git,docker)
+## Areas & Expertise
 
-## What I Do
-
-| Area | Expertise |
-|------|-----------|
-| Full-Stack Development | Build scalable web applications from frontend to backend|
-| Backend Engineering | Develop robust APIs and backend services with Python, FastAPI & Laravel |
-| Frontend Development | Create responsive user interfaces with React, Angular & TypeScript |
-| API Integration | Design REST APIs and integrate third-party services |
-| Business Applications | Build software that streamlines business operations |
-| Cloud & DevOps | Deploy and manage applications with Docker |
+| Area | Expertise | Tech Stack |
+|------|----------|------------|
+| Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,vue,angular,ts) |
+| Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=python,laravel) |
+| API Integration | Design REST APIs and integrate third-party services | ![My Skills](https://skillicons.dev/icons?i=fastapi,flask,postman) |
+| Database Design | Design and optimize relational databases | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql) |
+| Cloud & DevOps | Deploy and manage applications | ![My Skills](https://skillicons.dev/icons?i=docker) |
+| Business Applications | Build software that streamlines business operations | ERP systems, custom dashboards |
 
 
 ## Get In Touch
