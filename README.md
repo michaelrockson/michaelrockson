@@ -1,6 +1,7 @@
 ## About Me
 
-I am a full-stack software developer who designs scalable web applications, business systems and intelligent workflows. I have a business-first mindset that helps software development become a reliable way of solving actual problems. For now, I am targeting working on systems that automate tasks and bring continuous value.
+I'm a Full Stack Software Developer based in Accra, Ghana with a strong focus on building scalable and maintainable systems. I help businesses achieve their objectives by satisfying stakeholder requirements through curated web applications, backend systems and agentic automation. I specialize in creating performance-driven and business-oriented solutions that go beyond just writing code and delivering value longterm.
+
 
 ## Areas & Expertise
 
