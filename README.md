@@ -7,9 +7,9 @@ I'm a Full Stack Software Developer based in Accra, Ghana with a strong focus on
 
 | Area | Expertise | Tech Stack |
 |------|----------|------------|
-| Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,bootstrap) |
-| Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=python,laravel,docker,git) |
-| API Integration | Design REST APIs and integrate third-party services | ![My Skills](https://skillicons.dev/icons?i=fastapi,flask,postman) |
+| Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,angular,ts,bootstrap) |
+| Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=python,nodejs,laravel,docker) |
+| API Integration | Design REST APIs and integrate third-party services | ![My Skills](https://skillicons.dev/icons?i=fastapi,express,flask,postman) |
 | Database Design | Design and optimize relational databases | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql) |
 | Business Applications | Build software that streamlines business operations | ![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,github)  |
 
