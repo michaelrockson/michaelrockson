@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a Full Stack Software Developer based in Accra, Ghana with a strong focus on building scalable and maintainable systems. I help businesses achieve their objectives by satisfying stakeholder requirements through curated web applications, backend systems and agentic automation. I specialize in creating performance-driven and business-oriented solutions that go beyond just writing code and delivering value longterm.
+I'm Michael Rockson a Software Developer based in Accra, Ghana. I build scalable web applications, backend infrastructure and agentic automation that help businesses turn stakeholder requirements into beneficial results. My focus has always been on writing code that does more than function: it has to perform well, support growth and deliver value long after launch. I work closely with the people I build for because the best technical solutions come from genuinely understanding what a business needs to succeed.
 
 
 ## Areas & Expertise
