@@ -8,8 +8,7 @@ I'm Michael Rockson a Software Developer based in Accra, Ghana. I build scalable
 | Area | Expertise | Tech Stack |
 |------|----------|------------|
 | Frontend Development | Create responsive user interfaces | ![My Skills](https://skillicons.dev/icons?i=react,angular,ts) |
-| API Integration | Design REST APIs and integrate third-party services | ![My Skills](https://skillicons.dev/icons?i=express,fastapi,flask) |
-| Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=nodejs,python,laravel) |
+| Backend Engineering | Develop robust APIs and backend services | ![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,laravel) |
 | Database Design | Design and optimize relational databases | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql) |
 | Business Applications | Build software that streamlines business operations | ![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,docker)  |
 
