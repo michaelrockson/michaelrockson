@@ -1,7 +1,7 @@
 ## About Me
 
-I'm Michael Rockson a Software Developer based in Accra, Ghana. I build scalable web applications, backend infrastructure and agentic solutions that help businesses turn desired objectives into beneficial results.
-
+I'm Michael Rockson a Software Developer based in Accra, Ghana. I build web applications that help businesses improve their product & service delivery. My focus is on building systems that are practical, reliable and easy to evolve as needs grow.
+</br>
 
 ## Areas & Expertise
 
@@ -12,6 +12,7 @@ I'm Michael Rockson a Software Developer based in Accra, Ghana. I build scalable
 
 
 ## Get In Touch
-I'm always interested in opportunities to build scalable software and business applications that create measurable value for businesses and the people who use them.
+
+I'm open to opportunities where I can contribute to building software that improves how businesses operate and deliver value. If you're working on a product or system that needs reliable web or backend development, feel free to reach out.
 
 📧 **[coffiecodes@gmail.com](mailto:coffiecodes@gmail.com)**
