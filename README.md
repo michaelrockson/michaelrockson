@@ -5,10 +5,15 @@ I'm Michael Rockson a Software Developer based in Accra, Ghana. I build web appl
 
 ## Areas & Expertise
 
-| Area | Expertise | Tech Stack |
-|------|----------|------------|
-| Full-Stack Development | Build & maintain performant web applications from frontend to backend.  | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,express,react,nodejs) |
-| Backend Engineering | Design, build and maintain secure APIs & backend services. | ![My Skills](https://skillicons.dev/icons?i=fastapi,python,laravel) |
+### Full-Stack Development
+
+Build & maintain performant web applications from frontend to backend. 
+![MySkills](https://skillicons.dev/icons?i=postgresql,mysql,express,react,nodejs)
+
+### Backend Engineering
+
+Design, build and maintain secure APIs & backend services.
+![My Skills](https://skillicons.dev/icons?i=fastapi,python,laravel)
 
 
 ## Get In Touch
