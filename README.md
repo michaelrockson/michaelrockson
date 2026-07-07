@@ -7,13 +7,13 @@ I'm Michael Rockson a Software Developer based in Accra, Ghana. I build web appl
 
 Develop responsive, performant web applications from frontend to backend, delivering features that support business goals and provide a reliable user experience.
 
-![MySkills](https://skillicons.dev/icons?i=postgresql,mysql,express,react,nodejs,nextjs)
+![MySkills](https://skillicons.dev/icons?i=postgresql,mysql,express,react,nodejs)
 
 ## Backend Service Development 
 
 Design and build secure APIs, business logic and backend services with a focus on reliability, performance and maintainable architecture.
 
-![MySkills](https://skillicons.dev/icons?i=python,laravel,golang,java)
+![MySkills](https://skillicons.dev/icons?i=python,laravel)
 
 
 ## Get In Touch
