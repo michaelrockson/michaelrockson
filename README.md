@@ -1,10 +1,12 @@
 ## Greetings, I'm Michael Rockson
 
-Software Developer building performant web applications and dependable backend systems.
+A software developer, a performance oriented Web programmer, and an architect of reliable back-end systems.
 
-</br>Skilled at translating stakeholder requirements into practical solutions that support business objectives strengthen investor confidence and improve customer experiences. 
+</br>
+Capable of creating solutions that not only satisfy the needs of stakeholders but also further business goals, boost investor relations, and enhance the customers' overall experiences.
 
-</br>Passionate about maximizing efficiency by designing systems that eliminate repetitive manual processes, simplify operations and create scalable digital workflows.
+</br>Crazy about optimizing processes through systems engineering which, at minimum, remove all the unnecessary manual input, make the work simple, and at most, open the way to new digital scalable workflows.
+
 
 ## Technical Stack
 
