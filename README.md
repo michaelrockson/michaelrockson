@@ -1,6 +1,3 @@
-<img width="1500" height="500" alt="1765655586" src="https://github.com/user-attachments/assets/b1c18ec7-ba58-4fbb-b4ba-d002bacf20c4" />
-
-
 ## Greetings, I'm Michael Rockson
 
 A software developer, a performance oriented Web programmer and an architect of reliable back-end systems.</br>
