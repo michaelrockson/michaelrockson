@@ -4,8 +4,7 @@ A software developer, a performance oriented Web programmer and an architect of 
 
 Capable of creating solutions that not only satisfy the needs of stakeholders but also further business goals, boost investor relations, and enhance the customers' overall experiences.</br>
 
-Crazy about optimizing processes through systems engineering which at minimum, remove all the unnecessary manual input, make the workload simple and at most, open the way to new digital workflows.
-
+Passionate about optimizing processes through systems engineering which at minimum, remove all the unnecessary manual input, make the workload simple and at most, open the way to new digital workflows.
 
 ## Technical Stack
 
