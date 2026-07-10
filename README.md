@@ -1,4 +1,4 @@
-<img width="100%" height="414" alt="Glass rounded bars" src="https://github.com/user-attachments/assets/b53efbc6-64bd-4e93-a26d-c90fdfcfed7a" />
+<img width="100%" height="300" alt="Glass rounded bars" src="https://github.com/user-attachments/assets/b53efbc6-64bd-4e93-a26d-c90fdfcfed7a" />
 
 
 ## Greetings, I'm Michael Rockson
