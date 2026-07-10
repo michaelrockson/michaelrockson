@@ -12,6 +12,3 @@ Passionate about optimizing processes through systems engineering which at minim
 ## Technical Stack
 
 ![MySkills](https://skillicons.dev/icons?i=typescript,python,laravel,react,nodejs,express,fastapi,postgres,mysql)
-
-
-<img width="100%" height="190" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/25c6af69-9641-4e28-a9c8-cbffd26ac489" />
