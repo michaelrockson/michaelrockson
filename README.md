@@ -1,4 +1,4 @@
-<img width="100%" height="401" alt="download (2 1)" src="https://github.com/user-attachments/assets/4cb45bb0-4969-4d6d-aa35-9feee45e699e" />
+<img width="100%" height="200" alt="download (2 1)" src="https://github.com/user-attachments/assets/4cb45bb0-4969-4d6d-aa35-9feee45e699e" />
 
 ## Greetings, I'm Michael Rockson
 
