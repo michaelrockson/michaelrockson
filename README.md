@@ -1,5 +1,3 @@
-<img width="100%" height="200" alt="download (2 1)" src="https://github.com/user-attachments/assets/4cb45bb0-4969-4d6d-aa35-9feee45e699e" />
-
 ## Greetings, I'm Michael Rockson
 
 A software developer, a performance oriented Web programmer and an architect of reliable back-end systems.</br>
@@ -13,3 +11,4 @@ Passionate about optimizing processes through systems engineering which at minim
 ![MySkills](https://skillicons.dev/icons?i=typescript,python,laravel,react,nodejs,express,fastapi,postgres,mysql)
 
 
+<img width="100%" height="200" alt="download (2 1)" src="https://github.com/user-attachments/assets/4cb45bb0-4969-4d6d-aa35-9feee45e699e" />
