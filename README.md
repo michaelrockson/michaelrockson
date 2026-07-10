@@ -1,3 +1,6 @@
+<img width="100%" height="414" alt="Glass rounded bars" src="https://github.com/user-attachments/assets/b53efbc6-64bd-4e93-a26d-c90fdfcfed7a" />
+
+
 ## Greetings, I'm Michael Rockson
 
 A software developer, a performance oriented Web programmer and an architect of reliable back-end systems.</br>
