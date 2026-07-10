@@ -10,4 +10,6 @@ Passionate about optimizing processes through systems engineering which at minim
 
 ![MySkills](https://skillicons.dev/icons?i=typescript,python,laravel,react,nodejs,express,fastapi,postgres,mysql)
 
+## Open To Collaborations
+
 <img width="100%" height="180" alt="download (2 1)" src="https://github.com/user-attachments/assets/2bebde89-3e1b-4471-990a-f48392b4bbe2" />
