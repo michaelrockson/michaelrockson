@@ -13,5 +13,3 @@ Passionate about optimizing processes through systems engineering which at minim
 ## Open to Collaborations
 
 <img width="100%" height="200" alt="download (2 1)" src="https://github.com/user-attachments/assets/4cb45bb0-4969-4d6d-aa35-9feee45e699e" />
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coffiecodes@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocksoncodes)
