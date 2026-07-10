@@ -2,9 +2,9 @@
 
 A software developer based in Ghana, working across backend, frontend and AI/ML-adjacent systems.</br>
 
-I build with TypeScript and Python, designing APIs with Express and FastAPI, building interfaces in React and working with PostgreSQL and Docker for data and deployment.</br>
+I build with TypeScript and Python, design APIs with Express and FastAPI, build interfaces in React and work with PostgreSQL and Docker for data and deployment.</br>
 
-I work on civic and public-service platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
+Currently working on civic and public-service platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
 
 ## Technical Stack
 
