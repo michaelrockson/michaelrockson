@@ -6,7 +6,7 @@ I build with TypeScript and Python, design APIs with Express and FastAPI, build 
 
 Currently working on civic and public-service platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
 
-## Technical Stack
+## Technical Toolkit
 
 ![MySkills](https://skillicons.dev/icons?i=typescript,python,laravel,react,nodejs,express,fastapi,postgres,mysql,docker)
 
