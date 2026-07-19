@@ -1,4 +1,4 @@
-## Greetings, I'm Rockson
+## Hello, I'm Rockson 👋🏽
 
 A software developer based in Ghana working across backend, frontend and AI/ML-adjacent systems.</br>
 
