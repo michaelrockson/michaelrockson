@@ -4,7 +4,7 @@
 
 I help founders, businesses and teams turn concepts into functional MVPs they can launch, test and improve.</br>
 
-Currently working on civic and niche e-commerce platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
+Currently working on support and niche e-commerce platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
 
 ## Technical Toolkit
 
