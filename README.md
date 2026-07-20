@@ -8,4 +8,4 @@ Currently working on support and niche e-commerce platforms, AI-assisted analysi
 
 ## Technical Toolkit
 
-![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,express,fastapi,python,laravel,postgres,mysql,docker)
+![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,python,laravel,postgres,docker)
