@@ -1,8 +1,8 @@
-## Hello, I'm Rockson 👋🏽
+## Hi, I'm Michael Rockson  👋🏽
 
-A software developer based in Ghana working across backend, frontend and AI/ML-adjacent systems.</br>
+Backend Software Engineer building reliable systems that solve frustratingly painful problems.</br>
 
-I build with TypeScript and Python, design APIs with Express and FastAPI, build interfaces in React and work with PostgreSQL and Docker for data and deployment.</br>
+I build APIs, backend services and full-stack applications with a focus on clean architecture, maintainability and practical business value.</br>
 
 Currently working on civic and public-service platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
 
