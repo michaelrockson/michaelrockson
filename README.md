@@ -8,4 +8,4 @@ Currently working on civic and public-service platforms, AI-assisted analysis to
 
 ## Technical Toolkit
 
-![MySkills](https://skillicons.dev/icons?i=typescript,python,laravel,nextjs,react,nodejs,express,fastapi,postgres,mysql,docker)
+![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,express,fastapi,python,laravel,postgres,mysql,docker)
