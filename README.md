@@ -9,3 +9,5 @@ Currently working on civic and public-service platforms, AI-assisted analysis to
 ## Technical Toolkit
 
 ![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,express,fastapi,python,laravel,postgres,mysql,docker)
+
+<img width="1100" height="488" alt="tumblr_3ebef054c877d03c507aa8c40149908b_515b1f92_1280" src="https://github.com/user-attachments/assets/825a69dc-2d8f-4082-8d89-2bada0fd1180" />
