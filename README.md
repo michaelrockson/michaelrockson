@@ -1,10 +1,12 @@
-## Hi, I'm Michael Rockson  👋🏽
+## Welcome  👋🏽
 
-#### I build MVPs that turn ideas into working products.</br>
+If you've found your way here, chances are you like building things too.
 
-I help founders, businesses and teams turn concepts into functional MVPs they can launch, test and improve.</br>
+Right now, I'm focused on building MVPs for startups and businesses in ecommerce, logistics and fintech, turning ideas into products that are not only ready to be validated but also can be iterated over and will eventually grow.
 
-Currently working on support and niche e-commerce platforms, AI-assisted analysis tools and data-driven systems that turn unstructured information into structured insight.
+I mainly build with Next.js, Laravel, and the PERN stack, with an emphasis on clean architecture, thoughtful design and software that solves real problems not just software that looks good in a portfolio.
+
+Feel free to explore the projects. I hope you find something useful.
 
 ## Technical Toolkit
 
