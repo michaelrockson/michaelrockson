@@ -10,4 +10,4 @@ Feel free to explore the projects. I hope you find something useful.
 
 ## Technical Toolkit
 
-![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,laravel,react,nodejs,python,postgres,docker)
+![MySkills](https://skillicons.dev/icons?i=typescript,nextjs,laravel,react,nodejs,python,postgres,docker,webstorm)
