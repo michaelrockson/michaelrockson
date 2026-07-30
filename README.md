@@ -1,8 +1,8 @@
-## Your friendly *neighborhood* developer 👋🏽
+# Your friendly *neighborhood* developer 👋🏽
 
 I'm Michael, a full-stack developer focused on building MVPs, AI agents, and business software that help startups and growing companies turn ideas into tangible value people rely on.
 
-## Building Products With
+### *Building Products With*
 
 I use Next.js and React to build modern, user-focused applications, Node.js, Express and PostgreSQL to power reliable APIs and scalable data systems and Docker to deliver consistent deployments across environments.
 
