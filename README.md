@@ -1,6 +1,6 @@
 ## Your *friendly neighborhood* developer
 
-I'm Michael, a full-stack developer focused on building MVPs, AI agents, and business software that help startups and growing companies turn ideas into tangible value people rely on.
+I'm Michael, a full-stack developer focused on building MVPs and AI agents that help startups and growing companies turn ideas into tangible value people can rely on.
 
 ### *Building Products With*
 
