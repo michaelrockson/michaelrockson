@@ -4,7 +4,7 @@ I'm Michael, a full-stack developer focused on building MVPs, AI agents, and bus
 
 ### *Building Products With*
 
-I use Next.js and React to build modern, user-focused applications, Node.js, Express and PostgreSQL to power reliable APIs and scalable data systems and Docker to deliver consistent deployments across environments.
+I use Next.js and React to build modern, user-focused applications, Node.js, Express and PostgreSQL to power reliable APIs and scalable systems and Docker to deliver consistent deployments across environments.
 
 ![MySkills](https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,express,postgres,docker,webstorm)
 
