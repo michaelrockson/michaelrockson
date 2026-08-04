@@ -4,7 +4,7 @@ Full-stack developer focused on building MVPs and AI agents.
 
 ### *Building Products With*
 
-Next.js and React for modern, user-focused applications, Node.js, Express and PostgreSQL to power reliable APIs and scalable systems and Docker to deliver consistent deployments across environments.
+Next.js and React for modern, user-focused applications, Node.js, Express and PostgreSQL to build reliable APIs and scalable backend systems and Docker to deliver consistent deployments across environments.
 
 ### *Extending Capabilities With*
 
