@@ -4,7 +4,7 @@ My job is to understand your goals and build a reliable system that helps you ac
 
 ### *Building Products With*
 
-Next.js and React for modern, user-focused applications, Node.js, Express and PostgreSQL to build reliable APIs and scalable backend systems and Docker to deliver consistent deployments across environments.
+React and Tailwind for modern, user-focused applications, Node.js, Express and PostgreSQL to build reliable APIs and scalable backend systems and Docker to deliver consistent deployments across environments.
 
 ### *Extending Capabilities With*
 
