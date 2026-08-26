@@ -8,6 +8,6 @@ My job is to understand your goals and build reliable software that helps you ac
 
 ### *Extending Capabilities With*
 
-**Python** to build smart tools, AI assistants and systems that automate repetitive work. **Go** to build fast and efficient services for tasks that need to handle a lot of work and **Java** to build and maintain larger business applications and systems.
+**Python** to build AI assistants and systems that automate repetitive work. **Go** to build fast and efficient services for tasks that need to handle a lot of work and **Java** to build and maintain larger business applications and systems.
 
 ***Feel free to explore any project. I hope you find something useful or at least interesting.***
