@@ -4,7 +4,7 @@ My job is to understand your goals and build reliable software that helps you ac
 
 ### *Building Products With*
 
-**React** and **Tailwind** to create modern, user-friendly websites and applications. **Node.js**, **Express** and **PostgreSQL** to power the operations that make applications function and **Docker** to make sure the software works consistently wherever it is run.
+**React** and **Tailwind** to create user-friendly websites and applications. **Node.js**, **Express** and **PostgreSQL** to power the operations that make applications function and **Docker** to make sure the software works consistently wherever it is run.
 
 ### *Extending Capabilities With*
 
