@@ -1,13 +1,13 @@
-## Your *friendly neighborhood* developer
+# Your *friendly neighborhood* developer
 
-My job is to understand your goals and build reliable software that helps you achieve them effectively.
+My job is to understand your goals and build reliable software that helps you achieve them.
 
 ### *Building Products With*
 
-**React** and **Tailwind** to create user-friendly websites and applications. **Node.js**, **Express** and **PostgreSQL** to power the operations that make applications function and **Docker** to make sure the software works consistently wherever it is run.
+**React** and **Tailwind** for user-friendly websites and applications. **Node.js**, **Express** and **PostgreSQL** to power the systems behind them, and **Docker** to keep things running consistently.
 
 ### *Extending Capabilities With*
 
-**Python** to build AI assistants and systems that automate repetitive work. **Go** to build fast and efficient services and **Java** to build and maintain larger business applications and systems.
+**Python** for AI assistants and automation. **Go** for fast, efficient services, and **Java** for larger business applications and systems.
 
-***Feel free to explore any project. I hope you find something useful or at least interesting.***
+***Feel free to explore my projects. I hope you find something useful—or at least interesting.***
