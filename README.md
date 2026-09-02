@@ -10,4 +10,4 @@ My job is to understand your goals and build reliable software that helps you ac
 
 **Python** for AI assistants and automation. **Go** for fast, efficient services, and **Java** for larger business applications and systems.
 
-***Feel free to explore my projects. I hope you find something useful—or at least interesting.***
+***Feel free to explore my projects. I hope you find something useful or at least interesting.***
