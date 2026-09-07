@@ -1,4 +1,4 @@
-# Your *friendly neighborhood* developer
+# The *neighborhood* developer
 
 My job is to understand your goals and build reliable software that helps you achieve them.
 
