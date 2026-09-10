@@ -1,4 +1,4 @@
-# The *neighborhood* developer
+## The *neighborhood* developer
 
 Software Engineer helping agency development teams deliver great client projects with reliable and thoughtful software development. I have been involved in developing production software, internal systems and full-stack applications for customer support, call centre operations, university administration and enterprise services.
 
