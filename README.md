@@ -1,6 +1,6 @@
 ## *Hey, I'm Michael*
 
-Software Engineer taking up contracted software projects for agencies and companies from handover to full delivery. Experience in developing production software, internal systems and full-stack applications for customer support, call centre operations, university administration and enterprise services.
+Software Engineer taking up contracted software projects for agencies and startups. Experience in developing production software, internal systems and full-stack applications for customer support, call centre operations, university administration and enterprise services.
 
 ## *Building Products With*
 
