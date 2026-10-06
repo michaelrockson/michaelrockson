@@ -4,6 +4,6 @@ I work with startups and agencies to build performant web applications and backe
 
 ## *I Build Systems With*
 
-**React**, **Tailwind**, **Node.js**, **Express** and **PostgreSQL**, Docker to keep things running consistently. **Python** for AI assistants and automation, **Go** for fast services and **Java** for larger business systems.
+**React**, **Tailwind**, **Node.js**, **Express** and **PostgreSQL** with Docker to keep things running consistently. **Python** for AI assistants and automation, **Go** for fast services and **Java** for larger business systems.
 
 ***Feel free to explore my projects. I hope you find something useful or at least interesting.***
