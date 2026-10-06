@@ -1,6 +1,6 @@
 ## *Hey, I'm Michael a Software Engineer*
 
-I specialize in building web applications, backend services and business systems for agencies and startups with experience in developing web applications for customer support, call centre operations, university administration and enterprise services.
+I partner with startups and agencies to build performant web applications and backend systems. Over time, I've built everything from customer support platforms and call center operations to university tools and enterprise software.
 
 ## *Building Products With*
 
