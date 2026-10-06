@@ -1,6 +1,6 @@
-## *Hey, I'm Michael*
+## *Hey, I'm Michael a Software Engineer*
 
-Software Engineer taking up contracted software projects for agencies and startups. Experience in developing production software, internal systems and full-stack applications for customer support, call centre operations, university administration and enterprise services.
+I specialize in building web applications, backend services and business systems for agencies and startups with experience in developing web applications for customer support, call centre operations, university administration and enterprise services.
 
 ## *Building Products With*
 
