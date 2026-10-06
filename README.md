@@ -1,6 +1,6 @@
 ## *Hey, I'm Michael a Software Engineer*
 
-I partner with startups and agencies to build performant web applications and backend systems. Over time, I've built everything from customer support platforms and call center operations to university tools and enterprise software.
+I work with startups and agencies to build performant web applications and backend systems. Over time, I've built everything from customer support platforms and call center operations to university tools and enterprise software.
 
 ## *I Build Systems With*
 
