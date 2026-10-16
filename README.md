@@ -12,11 +12,6 @@ I specialize in application development, process automation and system improveme
 - **Data Automation at Shop Online New York:** Improved a Python and Playwright scraper that collects online store product data, calculates pricing and profit and produces organized Excel reports.
 - **Enterprise Application at Grundfos Ghana:** Fixed 30+ issues across payment, analytics and inventory systems in an Angular enterprise application, so important business processes kept running reliably.
 
-### Projects to explore
-
-- **Dux-Api-Gateway:** One central service that connects seven public data sources behind a single interface, with API key protection and rate limiting. 
-- **Leema-Research-Platform:** An AI research tool that finds, checks and ranks customer problems from online conversations to help founders decide what to build.
-
 ### Tools I work with
 
 Python | TypeScript | JavaScript | Laravel | React | Angular | PostgreSQL | REST APIs | Git
