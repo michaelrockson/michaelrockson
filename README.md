@@ -1,6 +1,6 @@
 # Michael Rockson Coffie
 
-### Software Engineer | Open to Full-Time Roles and Contract Projects
+### Software Engineer | Now Open to Full-Time Roles and Contract Projects
 
 I help teams build software services their customers and partners can rely on.
 
