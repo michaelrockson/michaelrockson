@@ -2,9 +2,9 @@
 
 ### Software Engineer | Now Open to Full-Time Roles and Contract Projects
 
-I help teams build software services their customers and partners can rely on.
+I build and improve applications, automate data workflows, and troubleshoot existing systems to keep business processes running reliably.
 
-I specialize in application development, process automation and system improvement, with experience across customer support, data automation and enterprise applications.
+My experience spans application development, process automation, and enterprise applications.
 
 ### What I have delivered
 
